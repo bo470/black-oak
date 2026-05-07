@@ -1,0 +1,5 @@
+{
+  "name": "Black Oak",
+  "description": "Professional Trading Journal & Performance Analytics System",
+  "requestFramePermissions": ["geolocation"]
+}
